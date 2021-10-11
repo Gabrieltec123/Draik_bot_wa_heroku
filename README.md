@@ -5,7 +5,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Gabrieltec123/Draik_bot_wa_heroku)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KSnkPHPetNl312H8vXLXHG)
-## [![Blog](https://i.blogs.es/4affb9/blogger-logo/1366_2000.jpg)](https://gabrieltec735.blogspot.com/)
+## [![Blog](BLOG)](https://gabrieltec735.blogspot.com/)
 > Un bot de WhatsApp ligero y eficiente repleto de funciones <br>
 </div><br/>
 <br/>
