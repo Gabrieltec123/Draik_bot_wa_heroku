@@ -1,6 +1,6 @@
 {
-    "name": "Draik_bot 3.0.2v",
-    "description": "Draik_bot is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "name": "Draik_bot ",
+    "description": "Draik_bot es un bot de chat para WhatsApp. Hace que usar Whatsapp sea fácil y divertido.",
     "logo": "https://i.ibb.co/98yPQVN/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Draik_bot"],
     "repository": "",
@@ -93,17 +93,17 @@
         "ALIVE_LOGO": {
             "description": "Logo del mensaje Alive. Inserte el enlace se su imagen para cambiar la imagen por defecto. (ponga el enlace de una imagen tuya alojada en https://imgbb.com .)",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.ibb.co/98yPQVN/LOGO.jpg"
         },
         "WELCOME_LOGO": {
             "description": "Logo del mensaje Welcome. Inserte el enlace se su imagen para cambiar la imagen por defecto. (ponga el enlace de una imagen tuya alojada en https://imgbb.com .)",
             "required": true,
-            "value": "https://i.ibb.co/d54sGdd/f2097d7ddc39.jpg"
+            "value": "https://i.ibb.co/f4ZH2Sk/descarga-1.png"
         },
         "BYE_LOGO": {
             "description": "Logo del mensaje Good Bye. Inserte el enlace se su imagen para cambiar la imagen por defecto. (ponga el enlace de una imagen tuya alojada en https://imgbb.com .)",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://i.ibb.co/GQCjv3X/images.png"
         },
         "UNMUTE_MESSAGE": {
             "description": "Mensaje recibido al dejar de silenciar a un grupo.",
