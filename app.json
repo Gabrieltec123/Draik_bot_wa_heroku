@@ -1,11 +1,11 @@
 {
     "name": "Draik_bot 3.0.2v",
     "description": "Draik_bot is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/85jM0kf/LOGO.jpg",
+    "logo": "https://i.ibb.co/98yPQVN/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Draik_bot"],
     "repository": "",
-    "website": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
-    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "website blog": "https://gabrieltec735.blogspot.com/",
+    "success_url": "https://gabrieltec735.blogspot.com/",
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
