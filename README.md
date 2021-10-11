@@ -18,4 +18,4 @@
 
 ## 📑 License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSomnathDas%2FWhatsapp-Botto-Xre.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSomnathDas%2FWhatsapp-Botto-Xre?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGabrieltec123%2FDraik_bot_wa_heroku.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGabrieltec123%2FDraik_bot_wa_heroku?ref=badge_large)
