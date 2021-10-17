@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
-            "description": "Pega tu codigo QR session extraido de https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
+            "description": "Pega tu codigo QR session extraido de https://replit.com/@Gabrieltec123/Queen-Amdi-QR-Code.",
             "required": true
         },
         "SUDO": {
